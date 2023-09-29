@@ -9,5 +9,12 @@ understanding of the explanations.
 
 # License
 
-Licensed under the Apache License 2.0 because most of the non-comment code is from the Vulkanalia
-tutorial which uses this Apache license.
+The _viking_room.obj_ and _viking_room.png_ files in the _resources_ directory are based on the
+[Viking Room model](https://sketchfab.com/3d-models/viking-room-a49f1b8e4f5c4ecf9e1fe7d81915ad38)
+on the [Sketchfab](https://sketchfab.com/) website. The original model was created by 
+[nigelgoh](https://sketchfab.com/nigelgoh) and released under a
+[CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/) license. The tutorials slightly
+modified this model, but I have personally made no changes.
+
+I am releasing all other files under the [Apache License 2.0](LICENSE.txt) because most of the non-comment code is from the Vulkanalia
+tutorial which uses this license.
